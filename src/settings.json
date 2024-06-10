@@ -84,6 +84,6 @@
     "workbench.tree.renderIndentGuides": "none",
     "workbench.sideBar.location": "right",
     "symbols.hidesExplorerArrows": false,
-    "workbench.activityBar.location": "hidden",
+    "workbench.activityBar.location": "default",
     "git.autofetch": true,
 }
